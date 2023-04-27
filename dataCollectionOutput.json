@@ -1,0 +1,157 @@
+{
+   "influencers": [
+     {
+       "id": "1",
+       "name": "John Smith",
+       "email": "john.smith@gmail.com",
+       "phone": "555-1234",
+       "social_media": {
+         "instagram": "johnsmith",
+         "youtube": "johnsmith"
+       },
+       "topics": ["fashion", "beauty"],
+       "location": "New York",
+       "followerCount": 10000,
+       "engagementRate": 3.5,
+       "content": [
+         {
+           "type": "photo",
+           "url": "https://example.com/photos/1",
+           "caption": "Check out my new shoes!",
+           "likes": 500,
+           "comments": 20
+         },
+         {
+           "type": "video",
+           "url": "https://example.com/videos/1",
+           "caption": "Just finished my morning run",
+           "likes": 1000,
+           "comments": 50
+         }
+       ]
+     },
+     {
+       "id": "2",
+       "name": "Jane Doe",
+       "email": "jane.doe@gmail.com",
+       "phone": "555-5678",
+       "social_media": {
+         "instagram": "janedoe",
+         "youtube": "janedoe"
+       },
+       "topics": ["lifestyle", "travel"],
+       "location": "Los Angeles",
+       "followerCount": 20000,
+       "engagementRate": 4.2,
+       "content": [
+         {
+           "type": "photo",
+           "url": "https://example.com/photos/2",
+           "caption": "Feeling good today!",
+           "likes": 1000,
+           "comments": 40
+         },
+         {
+           "type": "video",
+           "url": "https://example.com/videos/2",
+           "caption": "Check out my new dance routine!",
+           "likes": 2500,
+           "comments": 100
+         }
+       ]
+     },
+     {
+       "id": "3",
+       "name": "Bob Johnson",
+       "email": "bob.johnson@gmail.com",
+       "phone": "555-9876",
+       "social_media": {
+         "instagram": "bobjohnson",
+         "youtube": "bobjohnson"
+       },
+       "topics": ["fitness", "health"],
+       "location": "Chicago",
+       "followerCount": 15000,
+       "engagementRate": 3.9,
+       "content": [
+         {
+           "type": "photo",
+           "url": "https://example.com/photos/3",
+           "caption": "Working hard at the gym!",
+           "likes": 800,
+           "comments": 30
+         },
+         {
+           "type": "video",
+           "url": "https://example.com/videos/3",
+           "caption": "My daily workout routine",
+           "likes": 2000,
+           "comments": 75
+         }
+       ]
+     },
+     {
+      "id": "4",
+      "name": "Alice Johnson",
+      "email": "alice.johnson@gmail.com",
+      "phone": "555-9875",
+      "social_media": {
+        "instagram": "alicejohnson",
+        "youtube": "alicejohnson"
+      },
+      "topics": ["fitness", "health"],
+      "location": "Chicago",
+      "followerCount": 15000,
+      "engagementRate": 4.0,
+      "content": [
+        {
+          "type": "photo",
+          "url": "https://example.com/photos/5",
+          "caption": "Working hard at the gym too!",
+          "likes": 800,
+          "comments": 30
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/videos/6",
+          "caption": "My daily workout routine also",
+          "likes": 2200,
+          "comments": 76
+        }
+      ]
+   },
+   {
+      "id": "5",
+      "name": "John Johnson",
+      "email": "john.johnson@gmail.com",
+      "phone": "555-9545",
+      "social_media": {
+        "instagram": "johnjohnson",
+        "youtube": "johnjohnson"
+      },
+      "topics": ["fitness", "health"],
+      "location": "Chicago",
+      "followerCount": 15000000,
+      "engagementRate": 7.3,
+      "content": [
+        {
+          "type": "photo",
+          "url": "https://example.com/photos/5",
+          "caption": "Working hard at the gym too!",
+          "likes": 1000,
+          "comments": 75
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/videos/7",
+          "caption": "My daily workout routine also 123",
+          "likes": 3000,
+          "comments": 100
+        }
+      ]
+   }
+   ]
+}
+     
+
+     
